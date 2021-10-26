@@ -2,7 +2,7 @@
 
 ### This is Rishi, I :heart: to see things from behind the scenes rather than those shiny and clean looking finished ones	:v:
 
-#### find more about me on [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
+#### more about me on [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
