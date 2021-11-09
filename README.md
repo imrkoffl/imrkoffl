@@ -14,6 +14,10 @@
 
 [Hackerrank](https://www.hackerrank.com/rishisiva01?hr_r=1&badge=python&stars=5&level=3&social=linkedin)
 
+## Stats
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=imrkoffl)](https://github.com/imrkoffl/github-readme-stats)
+
 #### more about me on [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
